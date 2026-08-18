@@ -68,4 +68,4 @@ But that's kinda the point:
 - [x] LLM-powered email generation
 - [x] Streamlit AI application
 
-**Just getting started. ⚡**
+
