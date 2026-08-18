@@ -1,6 +1,6 @@
 # GenAI & Agentic AI — 2 Days of Building
 
-A hands-on journey into **Generative AI, Agentic AI, RAG, and AI-powered workflows**.
+A hands on journey into **Generative AI, Agentic AI, RAG, and AI-powered workflows**.
 
 Two days of learning, experimenting, breaking things, fixing them, and actually getting things to work. ⚡
 
