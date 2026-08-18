@@ -41,11 +41,11 @@ Also built an AI workflow that connects job requirements with relevant portfolio
 
 `Job → Skills → Semantic Search → Portfolio → LLM → Email`
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 `Python` · `LangChain` · `Groq` · `ChromaDB` · `Sentence Transformers` · `PyPDF2` · `Streamlit` · `AWS`
 
-## 💡 What I Took Away
+##  What I Took Away
 
 **Day 1:** Understand the ecosystem.  
 **Day 2:** Build with it.
@@ -54,7 +54,7 @@ A lot of terminal errors, debugging, experimenting, and learning along the way. 
 
 But that's kinda the point:
 
-> **Learn → Build → Break → Fix → Repeat. 🚀**
+> **Learn → Build → Break → Fix → Repeat. **
 
 ## Progress
 
