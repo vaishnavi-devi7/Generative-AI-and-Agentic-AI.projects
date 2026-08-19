@@ -67,5 +67,35 @@ But that's kinda the point:
 - [x] Semantic portfolio matching
 - [x] LLM-powered email generation
 - [x] Streamlit AI application
+      
+## ⚡ Day 3 — LangGraph + AI Code Analyzer
+
+Day 3 was about getting deeper into **AI agents and workflow orchestration**.
+
+Built a **Code Analyzer Chatbot** using LangGraph and Groq that can take a code snippet, analyze it, and provide suggestions for improving it.
+
+# What I explored
+
+- 🧠 LangGraph
+- 🤖 LLM-powered agents
+- 🛠️ Agent tools
+- 🔄 StateGraph workflows
+- 💬 Message-based agent interaction
+- 🔍 Code analysis
+- ⚡ Groq LLMs
+- 🌐 Streamlit
+- 
+# Flow
+
+`Code → Prompt → LangGraph → AI Agent → Analysis`
+
+The fun part? Watching an LLM actually reason through code instead of just generating it. 😮‍💨
+
+##💡 Day 3 Takeaway
+
+**Day 1:** Understand the ecosystem.  
+**Day 2:** Build with GenAI.  
+**Day 3:** Start orchestrating AI workflows.
+
 
 
