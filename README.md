@@ -25,7 +25,7 @@ The main takeaway: **understanding what happens behind the scenes when AI system
 
 Day 2 moved from concepts to actual implementation.
 
-### 📄 Document Q&A with RAG
+### Document Q&A with RAG
 
 Built a **Document Q&A RAG system** that allows users to upload a PDF and ask questions about its content.
 
@@ -33,7 +33,7 @@ Built a **Document Q&A RAG system** that allows users to upload a PDF and ask qu
 
 `PDF → Text Extraction → Chunking → Embeddings → ChromaDB → Retrieval → LLM → Answer`
 
-### 🤖 AI Job & Portfolio Matching
+### AI Job & Portfolio Matching
 
 Also built an AI workflow that connects job requirements with relevant portfolio projects using semantic search and generates a personalized cold email.
 
@@ -91,7 +91,7 @@ Built a **Code Analyzer Chatbot** using LangGraph and Groq that can take a code 
 
 The fun part? Watching an LLM actually reason through code instead of just generating it. 😮‍💨
 
-##💡 Day 3 Takeaway
+## Day 3 Takeaway
 
 **Day 1:** Understand the ecosystem.  
 **Day 2:** Build with GenAI.  
