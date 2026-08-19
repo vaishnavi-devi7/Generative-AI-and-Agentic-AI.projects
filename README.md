@@ -76,15 +76,15 @@ Built a **Code Analyzer Chatbot** using LangGraph and Groq that can take a code 
 
 # What I explored
 
-- 🧠 LangGraph
-- 🤖 LLM-powered agents
-- 🛠️ Agent tools
-- 🔄 StateGraph workflows
-- 💬 Message-based agent interaction
-- 🔍 Code analysis
-- ⚡ Groq LLMs
-- 🌐 Streamlit
-- 
+- LangGraph
+- LLM-powered agents
+- Agent tools
+- StateGraph workflows
+- Message-based agent interaction
+- Code analysis
+- Groq LLMs
+- Streamlit
+  
 # Flow
 
 `Code → Prompt → LangGraph → AI Agent → Analysis`
