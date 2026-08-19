@@ -1,4 +1,4 @@
-# GenAI & Agentic AI — 2 Days of Building
+# GenAI & Agentic AI — 3 Days of Building
 
 A hands on journey into **Generative AI, Agentic AI, RAG, and AI-powered workflows**.
 
@@ -68,7 +68,7 @@ But that's kinda the point:
 - [x] LLM-powered email generation
 - [x] Streamlit AI application
       
-## ⚡ Day 3 — LangGraph + AI Code Analyzer
+## Day 3 — LangGraph + AI Code Analyzer
 
 Day 3 was about getting deeper into **AI agents and workflow orchestration**.
 
